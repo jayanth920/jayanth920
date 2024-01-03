@@ -9,7 +9,7 @@ Web Developer
 * 🌍  I'm based in San Antonio
 * 🖥️  See my portfolio at [this.](http://jayanth920-github-io-jayanth920.vercel.app/)
 * ✉️  You can contact me at [ej.developer.d@gmail.com](mailto:ej.developer.d@gmail.com)
-* 🧠  I'm learning NextJS, TailwindCSS
+* 🧠  I'm learning NextJS, Typescript and TailwindCSS too.
 
 ### Skills
 
