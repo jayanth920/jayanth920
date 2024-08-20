@@ -7,7 +7,7 @@ Web Developer
 👨‍💻 Exploring the realms of code for a year now, and loving every bit of the journey! Started my adventure with HTML, CSS, and JavaScript, and gradually ventured into the exciting universe of React, Node.js, and MongoDB. MERN stack is slowly becoming my game. Lot to learn, lot to make ! Whether it's fixing bugs, optimizing performance, or just geeking out about the latest tech trends - let's embark on this coding crusade together! 💡 Always learning, forever evolving. Let's build something extraordinary! 🚀✨
 
 * 🌍  I'm based in San Antonio
-* 🖥️  See my portfolio at [this.](http://jayanth920-github-io-jayanth920.vercel.app/)
+* 🖥️  See my portfolio at [this.](https://jayanth.vercel.app/style2)
 * ✉️  You can contact me at [ej.developer.d@gmail.com](mailto:ej.developer.d@gmail.com)
 * 🧠  I'm learning NextJS, Typescript and TailwindCSS too.
 
