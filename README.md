@@ -6,10 +6,11 @@ Web Developer
 
 👨‍💻 Exploring the realms of code for a year now, and loving every bit of the journey! Started my adventure with HTML, CSS, and JavaScript, and gradually ventured into the exciting universe of React, Node.js, and MongoDB. MERN stack is slowly becoming my game. Lot to learn, lot to make ! Whether it's fixing bugs, optimizing performance, or just geeking out about the latest tech trends - let's embark on this coding crusade together! 💡 Always learning, forever evolving. Let's build something extraordinary! 🚀✨
 
-* 🌍  I'm based in San Antonio
-* 🖥️  See my portfolio at [this.](https://jayanth.vercel.app/style2)
-* ✉️  You can contact me at [ej.developer.d@gmail.com](mailto:ej.developer.d@gmail.com)
+<!--* 🌍  I'm based in San Antonio-->
+* ✉️  You can contact me at [ej.developer.d@gmail.com](mailto:ej.developer.d@gmail.com), for my portfolio, resume and Linked-In.
+     I tend not to keep this public, and only provide these on a personal level only through connection.
 * 🧠  I'm learning NextJS, Typescript and TailwindCSS too.
+<!--* 🖥️  See my portfolio at [this.](https://jayanth.vercel.app/style2)-->
 
 ### Skills
 
@@ -78,6 +79,6 @@ Web Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/jayanth920" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jayanth920" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<!--<a href="https://www.linkedin.com/in/jayanth920" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>-->
 
 
