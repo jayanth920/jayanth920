@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-👨‍💻 It's been an exciting journey through the world of code! I started with HTML, CSS, and JavaScript, then dove into Java and built my first Android app. From there, I explored shell programming, got hands-on with AWS (S3, Lambda, etc.), and even ventured into Unity3D with C# scripting where I developed a game with plans to launch it on Steam 🎮.
+👨‍💻 Started with C++ , then JavaScript, then dove into Java and built my first Android app. From there, I explored shell programming, got hands-on with AWS (S3, Lambda, etc.), and even ventured into Unity3D with C# scripting where I developed a game with plans to launch it on Steam 🎮.
 
 Lately, I've been diving deep into AI/ML using Python, expanding my toolkit beyond just web development.
 
