@@ -1,13 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jayanth
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Jayanth
 ===============================================================================================================================
 
 Web Developer
 -------------
 
-👨‍💻 Exploring the realms of code for a year now, and loving every bit of the journey! Started my adventure with HTML, CSS, and JavaScript, and gradually ventured into the exciting universe of React, Node.js, and MongoDB. MERN stack is slowly becoming my game. Lot to learn, lot to make ! Whether it's fixing bugs, optimizing performance, or just geeking out about the latest tech trends - let's embark on this coding crusade together! 💡 Always learning, forever evolving. Let's build something extraordinary! 🚀✨
-* 🌍  I'm based in San Antonio
-* ✉️  You can contact me at [ej.developer.d@gmail.com](mailto:ej.developer.d@gmail.com)
-* 🧠  I'm learning NextJS, Typescript and TailwindCSS too.
+👨‍💻 It's been an exciting journey through the world of code! I started with HTML, CSS, and JavaScript, then dove into Java and built my first Android app. From there, I explored shell programming, got hands-on with AWS (S3, Lambda, etc.), and even ventured into Unity3D with C# scripting where I developed a game with plans to launch it on Steam 🎮.
+
+Lately, I've been diving deep into AI/ML using Python, expanding my toolkit beyond just web development.
+
+Currently building Aurable — a SaaS platform where anyone can create and launch web apps (like Lovable or Bolt.net), with a generous 10k–20k free credits to get started.
+
+💡 Always experimenting, always shipping. Let’s build something awesome together! 🚀
+
+🌍  Based in San Antonio
+
+✉️  Reach me at ej.developer.d@gmail.com
+
 <!--* 🖥️  See my portfolio at [this.](https://jayanth.vercel.app/style2)-->
 
 ### Skills
@@ -77,6 +85,6 @@ Web Developer
 
 ### Socials
 
-<!--<a href="https://www.linkedin.com/in/jayanth920" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>-->
+<a href="https://www.linkedin.com/in/jayanth920" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
