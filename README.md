@@ -4,11 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-👨‍💻 Started with C++ , then JavaScript, then dove into Java and built my first Android app. From there, I explored shell programming, got hands-on with AWS (S3, Lambda, etc.), and even ventured into Unity3D with C# scripting where I developed a game with plans to launch it on Steam 🎮.
+Started with <b>C++</b> , then <b>JS</b>, then dove into <b>Java</b> and built my first Android app. From there, I explored <b>C</b> shell programming, got hands-on with <b>AWS (S3, Lambda, etc.)</b>, and even ventured into Unity3D with <b>C#</b> scripting where I developed a game with plans to launch it on Steam 🎮.
 
-Lately, I've been diving deep into AI/ML using Python, expanding my toolkit beyond just web development.
+Lately, I've been diving deep into <b>AI/ML using <b>Python</b>, expanding my toolkit beyond just <b>web</b> development.
 
-Currently building Aurable — a SaaS platform where anyone can create and launch web apps (like Lovable or Bolt.net), with a generous 10k–20k free credits to get started.
+Currently building 
+
+1. Aurable: SaaS app where anyone can create and launch web apps (like Lovable or Bolt.net), with a generous 5k-10k free credits to get started. 
+2. Ungithub: SaaS app where anyone can understand repos through GeminiAI, or even chat with AI as a guide to make your own apps.
 
 💡 Always experimenting, always shipping. Let’s build something awesome together! 🚀
 
@@ -16,7 +19,7 @@ Currently building Aurable — a SaaS platform where anyone can create and launc
 
 ✉️  Reach me at ej.developer.d@gmail.com
 
-<!--* 🖥️  See my portfolio at [this.](https://jayanth.vercel.app/style2)-->
+ 🖥️  See my portfolio at [this.](https://jay920.vercel.app)
 
 ### Skills
 
